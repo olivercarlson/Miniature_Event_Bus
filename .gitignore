@@ -5,7 +5,7 @@ node_modules
 posts/node_modules
 comments/node_modules
 event-bus/node_modules
-client/node_modules
+/client/node_modules
 query/node_modules
 
 
