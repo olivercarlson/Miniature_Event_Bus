@@ -1,6 +1,6 @@
-# Miniature_Event_Bus
+# Miniature Event Bus
 
-# Purpose:
+### Purpose:
 
 The purpose of this project is to demonstrate and understand the process of event based communication between microservices.
 
